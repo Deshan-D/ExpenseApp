@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895204216570",
+    "project_id": "expensenoteapp-9d8dc",
+    "storage_bucket": "expensenoteapp-9d8dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895204216570:android:2f280ac4a6f53869e4c343",
+        "android_client_info": {
+          "package_name": "com.expensenoteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUtPKtykSR0ZZB3fqFuG04vygtPXoJ2Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
